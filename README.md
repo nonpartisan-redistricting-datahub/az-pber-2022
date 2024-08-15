@@ -1,7 +1,7 @@
 # Election Results Dataset
 
 ## Overview
-This dataset contains election results for various offices across different precincts in a specific county. Each row represents the results of a candidate in a particular precinct for a given office.
+This dataset contains election results for various offices across different precincts in a specific county. Each row a precinct, each column represents a candidate and the office he or she runs for, and the value for that cell is the number of votes he or she gets.
 
 ## Column Descriptions
 
