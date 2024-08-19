@@ -1,11 +1,13 @@
-# Election Results Dataset
+# Arizona 2022 General Election Precincts Boundary Joined With Election Results
+Election results are from Open Elections.  
+Geometries are from county official websites.  
+File compiled by Redistricting Data Hub(https://redistrictingdatahub.org/).  
+Final PBER file can be found at folder 'AZ_PBER_Final_File'
 
 ## Overview
 This dataset contains election results for various offices across different precincts in a specific county. Each row a precinct, each column represents a candidate and the office he or she runs for, and the value for that cell is the number of votes he or she gets.
 
 ## Column Descriptions
-
-
 
 **G22ATGDMAY**
 - **Candidate**: KRIS MAYES
